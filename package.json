@@ -13,7 +13,7 @@
     "debug": "^4.1.1",
     "lodash": "^4.17.11",
     "selenium-webdriver": "^3.4.0",
-    "shortstop-handlers": "^1.0.0",
+    "shortstop-handlers": "^1.1.1",
     "yargs": "^13.2.4"
   },
   "main": "index.js",
